@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **NexaPlan**
 
-- 🌱 I’m currently learning **C**
+- 🌱 I’m currently learning **Rust, Go and Htmx**
 
 - 💬 Ask me about **react and Django**
 
