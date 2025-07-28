@@ -18,7 +18,7 @@
 
 ```sh
 # Terminal YouTube Player
-$ ytsurf --search "lofi" --play
+$ ytsurf lofi
 
 # From scratch HTTP/1.1 server
 $ go run http-server.go
