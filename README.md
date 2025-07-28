@@ -1,5 +1,5 @@
 
-# 👋🏽 Hey, I'm Stanley Mwendwa
+# 👋🏽 Hey, Stan-breaks here
 
 ```sh
 > software_engineer --focus backend systems, tooling, and terminal UX
