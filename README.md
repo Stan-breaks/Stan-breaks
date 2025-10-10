@@ -7,7 +7,6 @@
 > website           --https://portfolio-ecru-five-71.vercel.app/
 ````
 
-🛰️ Winner of NASA Space Apps Kenya
 🛠 Builder of things close to the metal
 🖥 Obsessed with terminal-first UX
 
