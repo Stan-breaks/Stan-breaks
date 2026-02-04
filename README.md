@@ -15,10 +15,10 @@
 ### 🔧 Tools I Work With
 
 ```sh
-languages:   rust, go, bash, js/ts, python
-stacks:      node, react, django
-databases:   postgresql, mongodb, sqlite
-tooling:     docker, aws, git, ffmpeg, yt-dlp, mpv
+languages:   rust, go, zig, js/ts, python
+stacks:      node, react
+databases:   postgresql, mongodb, sqlite,
+tooling:     podman, aws, git,linux, bash 
 ```
 
 ---
