@@ -4,7 +4,6 @@
 ```sh
 > software_engineer --focus backend systems, tooling, and terminal UX
 > status           --graduated 🎓 (BSc Computer Science, ANU 2025)
-> website           --https://portfolio-ecru-five-71.vercel.app/
 ````
 
 🛠 Builder of things close to the metal
