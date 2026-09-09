@@ -32,4 +32,4 @@ tooling:     podman, aws, git, linux, bash
 
 ---
 
-> "Terminal is home. Build like it."
+> "I just want to enjoy coding without AI"
