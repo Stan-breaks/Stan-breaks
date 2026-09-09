@@ -1,17 +1,17 @@
-# 👋🏽 Hey, Stan-breaks here
+# Hello, Stan here
 
 ```sh
 > software_engineer --focus backend systems, low-level code, mobile, and terminal UX
 > role             --systems engineer @ goip · full-stack @ tanga academie
-> status           --graduated 🎓 (BSc Computer Science, ANU 2025)
+> status           --graduated  (BSc Computer Science, ANU 2025)
 ```
 
-🛠 Builder of things close to the metal
-🖥 Obsessed with terminal-first UX
+Builder of low level tools
+Obsessed with terminal-first projects
 
 ---
 
-### 🔧 Tools I Work With
+### Tools I Work With
 
 ```sh
 languages:   rust, go, js/ts, python, dart
@@ -22,7 +22,7 @@ tooling:     podman, aws, git, linux, bash
 
 ---
 
-### 🔭 What I'm Up To
+###  What I'm Up To
 
 * Designing security architecture at Goip — Rust secrets vault, Go identity service, custom Linux distro
 * Shipping a live education platform at Tanga Academie — React web, Node.js API, MongoDB, Flutter iOS/Android
